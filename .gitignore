@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local/private data
+data/752articulos.txt
+data/full_publication_list.txt
+
+# Large scrape outputs
+outputs/iac_press_notes_2024_live.csv
+outputs/iac_scraping_skipped_2024.csv
+outputs/iac_press_notes_2024_fulltext.txt
+
+# Temporary files
+*.zip
+*.pdf
